@@ -1,7 +1,7 @@
 {
   "name": "osu-arena",
   "version": "0.0.1",
-  "description": "",
+  "description": "An arena for osu! to compete globally.",
   "license": "MPL-2.0",
   "author": "osu-arena-team",
   "type": "commonjs",
